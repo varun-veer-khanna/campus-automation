@@ -1,0 +1,114 @@
+<h1>Flat UI Navigation</h1>
+
+<!-- START turquoise NAV -->
+<div class="turquoise-nav">
+<div class="logo">
+<a href="">Website Name</a>
+</div> <!-- End Logo -->
+  
+<ul>
+   <li><a href="#">Home</a></li>
+   <li><a href="#">Blog</a></li>
+   <li><a href="#">About</a></li>
+   <li><a href="#">Contact</a></li>
+</ul>
+</div> <!-- End Nav -->
+<!-- END turquoise NAV -->
+
+<!-- START emerald NAV -->
+<div class="emerald-nav">
+<div class="logo">
+<a href="">Website Name</a>
+</div> <!-- End Logo -->
+  
+  <ul>
+  <li><a href="#">Home</a></li>
+   <li><a href="#">Blog</a></li>
+   <li><a href="#">About</a></li>
+   <li><a href="#">Contact</a></li>
+  </ul>
+</div> <!-- End Nav -->
+<!-- END emerald NAV -->
+
+
+
+<!-- START peterriver NAV -->
+<div class="peterriver-nav">
+<div class="logo">
+<a href="">Website Name</a>
+</div> <!-- End Logo -->
+  
+<ul>
+  <li><a href="#">Home</a></li>
+   <li><a href="#">Blog</a></li>
+   <li><a href="#">About</a></li>
+   <li><a href="#">Contact</a></li>
+</ul>
+</div> <!-- End Nav -->
+<!-- END peterriver NAV -->
+
+
+
+<!-- START wetasphalt NAV -->
+<div class="wetasphalt-nav">
+<div class="logo">
+<a href="">Website Name</a>
+</div> <!-- End Logo -->
+  
+<ul>
+   <li><a href="#">Home</a></li>
+   <li><a href="#">Blog</a></li>
+   <li><a href="#">About</a></li>
+   <li><a href="#">Contact</a></li>
+</ul>
+</div> <!-- End Nav -->
+<!-- END wetasphalt NAV -->
+
+
+<!-- START sunflower NAV -->
+<div class="sunflower-nav">
+<div class="logo">
+<a href="">Website Name</a>
+</div> <!-- End Logo -->
+  
+<ul>
+  <li><a href="#">Home</a></li>
+   <li><a href="#">Blog</a></li>
+   <li><a href="#">About</a></li>
+   <li><a href="#">Contact</a></li>
+</ul>
+</div> <!-- End Nav -->
+<!-- END sunflower NAV -->
+
+
+
+<!-- START carrot NAV -->
+<div class="carrot-nav">
+<div class="logo">
+<a href="">Website Name</a>
+</div> <!-- End Logo -->
+  
+<ul>
+   <li><a href="#">Home</a></li>
+   <li><a href="#">Blog</a></li>
+   <li><a href="#">About</a></li>
+   <li><a href="#">Contact</a></li>
+</ul>
+</div> <!-- End Nav -->
+<!-- END carrot NAV -->
+
+
+<!-- START alizarin NAV -->
+<div class="alizarin-nav">
+<div class="logo">
+<a href="">Website Name</a>
+</div> <!-- End Logo -->
+  
+  <ul>
+    <li><a href="#">Home</a></li>
+   <li><a href="#">Blog</a></li>
+   <li><a href="#">About</a></li>
+   <li><a href="#">Contact</a></li>
+  </ul>
+</div> <!-- End Nav -->
+<!-- END alizarin NAV -->

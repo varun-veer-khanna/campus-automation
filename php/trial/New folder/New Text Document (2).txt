@@ -1,0 +1,227 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  background:#ecf0f1;
+  margin:30px;
+}
+
+a{
+  text-decoration:none;
+  color:white;
+}
+
+.logo{
+  float:left;
+  color:white;
+  font-weight:600;
+  margin-right:15px;
+  margin-left:20px;
+  padding-right:30px; 
+}
+
+/* START turquoise NAV */
+
+.turquoise-nav{
+  background:#1abc9c;
+  border-radius:6px;
+  width:540px;
+  padding-top:15px;
+  padding-bottom:15px;
+  font-size:14px;
+  padding-left:20px;
+  border-bottom: #16a085 3px solid;
+  margin-bottom:10px;
+}
+
+.turquoise-nav ul { margin: 0; padding: 0; list-style-type: none; list-style-image: none; }
+
+.turquoise-nav li { margin-right: 0px; display: inline; }
+
+.turquoise-nav ul li a { text-decoration:none;  margin: 0px; padding: 15px 20px 15px 20px; color:#ffffff; }
+
+.turquoise-nav ul li a:hover { color: #fff; background-color:#16a085; text-decoration:none; }
+
+.turquoise-nav li.current-menu-item a{ color: #fff; text-decoration:none; background-color:#16a085; }
+
+.turquoise-nav li.current_page_item  { color: #fff; text-decoration:none; background-color:#16a085; }
+
+/* END turquoise NAV */
+
+
+
+/* START emerald NAV */
+
+.emerald-nav{
+  background:#2ecc71;
+  border-radius:6px;
+  width:540px;
+  padding-top:15px;
+  padding-bottom:15px;
+  font-size:14px;
+  padding-left:20px;
+  border-bottom: #27ae60 3px solid;
+  margin-bottom:10px;
+}
+
+.emerald-nav ul { margin: 0; padding: 0; list-style-type: none; list-style-image: none; }
+
+.emerald-nav li { margin-right: 0px; display: inline; }
+
+.emerald-nav ul li a { text-decoration:none;  margin: 0px; padding: 15px 20px 15px 20px; color:#ffffff; }
+
+.emerald-nav ul li a:hover { color: #fff; background-color:#27ae60; text-decoration:none; }
+
+.emerald-nav li.current-menu-item a{ color: #fff; text-decoration:none; background-color:#27ae60; }
+
+.emerald-nav li.current_page_item { color: #fff; text-decoration:none; background-color:#27ae60; }
+
+/* END emerald NAV */
+
+
+
+/* START peterriver NAV */
+
+.peterriver-nav{
+  background:#3498db;
+  border-radius:6px;
+  width:540px;
+  padding-top:15px;
+  padding-bottom:15px;
+  font-size:14px;
+  padding-left:20px;
+  border-bottom: #2980b9 3px solid;
+  margin-bottom:10px;
+}
+
+.peterriver-nav ul { margin: 0; padding: 0; list-style-type: none; list-style-image: none; }
+
+.peterriver-nav li { margin-right: 0px; display: inline; }
+
+.peterriver-nav ul li a { text-decoration:none;  margin: 0px; padding: 15px 20px 15px 20px; color:#ffffff; }
+
+.peterriver-nav ul li a:hover { color: #fff; background-color:#2980b9; text-decoration:none; }
+
+.peterriver-nav li.current-menu-item a{ color: #fff; text-decoration:none; background-color:#2980b9; }
+
+.peterriver-nav li.current_page_item  { color: #fff; text-decoration:none; background-color:#2980b9; }
+
+/* END peterriver NAV */
+
+
+
+/* START wetasphalt NAV */
+
+.wetasphalt-nav{
+  background:#34495e;
+  border-radius:6px;
+  width:540px;
+  padding-top:15px;
+  padding-bottom:15px;
+  font-size:14px;
+  padding-left:20px;
+  border-bottom: #2c3e50 3px solid;
+  margin-bottom:10px;
+}
+
+.wetasphalt-nav ul { margin: 0; padding: 0; list-style-type: none; list-style-image: none; }
+
+.wetasphalt-nav li { margin-right: 0px; display: inline; }
+
+.wetasphalt-nav ul li a { text-decoration:none;  margin: 0px; padding: 15px 20px 15px 20px; color:#ffffff; }
+
+.wetasphalt-nav ul li a:hover { color: #fff; background-color:#2c3e50; text-decoration:none; }
+
+.wetasphalt-nav li.current-menu-item a{ color: #fff; text-decoration:none; background-color:#2c3e50; }
+
+.wetasphalt-nav li.current_page_item  { color: #fff; text-decoration:none; background-color:#2c3e50; }
+
+/* END wetasphalt NAV */
+
+
+
+/* START sunflower NAV */
+
+.sunflower-nav{
+  background:#f1c40f;
+  border-radius:6px;
+  width:540px;
+  padding-top:15px;
+  padding-bottom:15px;
+  font-size:14px;
+  padding-left:20px;
+  border-bottom: #E6BB0F 3px solid;
+  margin-bottom:10px;
+}
+
+.sunflower-nav ul { margin: 0; padding: 0; list-style-type: none; list-style-image: none; }
+
+.sunflower-nav li { margin-right: 0px; display: inline; }
+
+.sunflower-nav ul li a { text-decoration:none;  margin: 0px; padding: 15px 20px 15px 20px; color:#ffffff; }
+
+.sunflower-nav ul li a:hover { color: #fff; background-color:#E6BB0F; text-decoration:none; }
+
+.sunflower-nav li.current-menu-item a{ color: #fff; text-decoration:none; background-color:#f39c12; }
+
+.sunflower-nav li.current_page_item  { color: #fff; text-decoration:none; background-color:#f39c12; }
+
+/* END sunflower NAV */
+
+
+
+/* START carrot NAV */
+
+.carrot-nav{
+  background:#e67e22;
+  border-radius:6px;
+  width:540px;
+  padding-top:15px;
+  padding-bottom:15px;
+  font-size:14px;
+  padding-left:20px;
+  border-bottom: #d35400 3px solid;
+  margin-bottom:10px;
+}
+
+.carrot-nav ul { margin: 0; padding: 0; list-style-type: none; list-style-image: none; }
+
+.carrot-nav li { margin-right: 0px; display: inline; }
+
+.carrot-nav ul li a { text-decoration:none;  margin: 0px; padding: 15px 20px 15px 20px; color:#ffffff; }
+
+.carrot-nav ul li a:hover { color: #fff; background-color:#d35400; text-decoration:none; }
+
+.carrot-nav li.current-menu-item a{ color: #fff; text-decoration:none; background-color:#d35400; }
+
+.carrot-nav li.current_page_item  { color: #fff; text-decoration:none; background-color:#d35400; }
+
+/* END carrot NAV */
+
+
+
+/* START alizarin NAV */
+
+.alizarin-nav{
+  background:#e74c3c;
+  border-radius:6px;
+  width:540px;
+  padding-top:15px;
+  padding-bottom:15px;
+  font-size:14px;
+  padding-left:20px;
+  border-bottom: #c0392b 3px solid;
+  margin-bottom:10px;
+}
+
+.alizarin-nav ul { margin: 0; padding: 0; list-style-type: none; list-style-image: none; }
+
+.alizarin-nav li { margin-right: 0px; display: inline; }
+
+.alizarin-nav ul li a { text-decoration:none;  margin: 0px; padding: 15px 20px 15px 20px; color:#ffffff; }
+
+.alizarin-nav ul li a:hover { color: #fff; background-color:#c0392b; text-decoration:none; }
+
+.alizarin-nav li.current-menu-item a { color: #fff; text-decoration:none; background-color:#c0392b; }
+
+.alizarin-nav li.current_page_item { color: #fff; text-decoration:none; background-color:#c0392b; }
+
+/* END alizarin NAV */
